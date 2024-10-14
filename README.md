@@ -10,8 +10,6 @@
 
 <br>
 
-## **>> Não consegui criar a conta no Azure OpenAi. Só tinha disponibilidade de usar a conta paga.**
-
 <br>
 
 # No meu projeto utilizei o Copilot para criar as imagens e fazer o reconhecimento de texto!
